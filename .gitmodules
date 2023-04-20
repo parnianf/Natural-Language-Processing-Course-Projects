@@ -1,0 +1,15 @@
+[submodule "BytePerEncoding-And-WordPiece-Tokenizer-Implementation"]
+	path = BytePerEncoding-And-WordPiece-Tokenizer-Implementation
+	url = https://github.com/parnianf/BytePerEncoding-And-WordPiece-Tokenizer-Implementation.git
+[submodule "SMS-Spam-And-Sentimental-LIAR-Detection-Using-Naive-Bayes"]
+	path = SMS-Spam-And-Sentimental-LIAR-Detection-Using-Naive-Bayes
+	url = https://github.com/parnianf/SMS-Spam-And-Sentimental-LIAR-Detection-Using-Naive-Bayes.git
+[submodule "POS-Tagging-And-NER-Using-RNN-LSTM-GRU-Viterbi-algorithm"]
+	path = POS-Tagging-And-NER-Using-RNN-LSTM-GRU-Viterbi-algorithm
+	url = https://github.com/parnianf/POS-Tagging-And-NER-Using-RNN-LSTM-GRU-Viterbi-algorithm.git
+[submodule "Machine-Translation-Using-OpenNMT-And-Fairseq"]
+	path = Machine-Translation-Using-OpenNMT-And-Fairseq
+	url = https://github.com/parnianf/Machine-Translation-Using-OpenNMT-And-Fairseq.git
+[submodule "Question-Answering-And-Natural-Language-Understanding"]
+	path = Question-Answering-And-Natural-Language-Understanding
+	url = https://github.com/parnianf/Question-Answering-And-Natural-Language-Understanding.git
