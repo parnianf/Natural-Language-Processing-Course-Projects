@@ -13,3 +13,6 @@
 [submodule "Question-Answering-And-Natural-Language-Understanding"]
 	path = Question-Answering-And-Natural-Language-Understanding
 	url = https://github.com/parnianf/Question-Answering-And-Natural-Language-Understanding.git
+[submodule "Textual-Entailment-And-Multilingual-Classification-And-Cross-Lingual-Zero-Shot-Transfer-Learning"]
+	path = Textual-Entailment-And-Multilingual-Classification-And-Cross-Lingual-Zero-Shot-Transfer-Learning
+	url = https://github.com/parnianf/Textual-Entailment-And-Multilingual-Classification-And-Cross-Lingual-Zero-Shot-Transfer-Learning.git
